@@ -1,6 +1,6 @@
 # AICoverGen
 An autonomous pipeline to create covers with any RVC v2 trained AI voice from YouTube videos or a local audio file. For developers who may want to add a singing functionality into their AI assistant/chatbot/vtuber, or for people who want to hear their favourite characters sing their favourite song.
-
+Link https://e5ef5c05b5857261e3.gradio.live/
 Showcase: https://www.youtube.com/watch?v=2qZuE4WM7CM
 
 Setup Guide: https://www.youtube.com/watch?v=pdlhk4vVHQk
@@ -10,7 +10,7 @@ Setup Guide: https://www.youtube.com/watch?v=pdlhk4vVHQk
 WebUI is under constant development and testing, but you can try it out right now on both local and colab!
 
 ## Changelog
-
+ 
 - WebUI for easier conversions and downloading of voice models
 - Support for cover generations from a local audio file
 - Option to keep intermediate files generated. e.g. Isolated vocals/instrumentals
