@@ -4,7 +4,7 @@ Link https://e5ef5c05b5857261e3.gradio.live/
 Showcase: https://www.youtube.com/watch?v=2qZuE4WM7CM
 
 Setup Guide: https://www.youtube.com/watch?v=pdlhk4vVHQk
-
+Excel voice models-https://docs.google.com/spreadsheets/d/1leF7_c2Qf5iQRVkmOF51ZSynOvEjz8fHqwriX1wUMPw/edit?usp=sharing
 ![](images/webui_generate.png?raw=true)
 
 WebUI is under constant development and testing, but you can try it out right now on both local and colab!
